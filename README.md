@@ -46,5 +46,5 @@ TECHNOLOGIES USED:
 
 •	Editor- Eclipse IDE Version: 2019-09 R (4.13.0)
 
-•	Chrome driver version which was compatible with my latest chrome browser(verion 77.0)
+•	Chrome driver version which was compatible with my latest chrome browser(version 77.0)
 
